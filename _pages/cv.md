@@ -20,7 +20,7 @@ Industry Experience
 
 * 2023 - 2025: **Senior Research Scientist**
   * Meta, Menlo Park, CA
-  * Meta AI Personalization / Recommendation Systems
+  * Meta AI department (later Meta Superintelligence Lab) — AI Personalization / Recommendation Systems
 
 Education
 ======
