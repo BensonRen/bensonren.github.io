@@ -44,7 +44,7 @@ Evaluates whether multimodal LLMs with reasoning capabilities can detect manipul
 S Ren, Y Yao, K Zewde, Z Liang, NY Cheng, X Zhan, Q Liu, Y Chen, H Xu. *arXiv:2503.20084*, 2025. [12 citations]
 First systematic evaluation of multimodal LLMs as zero-shot deepfake detectors, revealing both promise and critical limitations.
 
-**Do deepfake detectors work in reality?**
+[**Do deepfake detectors work in reality?**](https://arxiv.org/abs/2502.10920)
 S Ren, D Patil, K Zewde, TD Ng, H Xu, S Jiang, R Desai, NY Cheng, ... *Proc. 4th Workshop on Security Implications of Deepfakes*, 2025. [7 citations]
 Real-world stress test of deepfake detectors showing dramatic accuracy drops under compression, social media re-encoding, and adversarial conditions.
 
@@ -53,19 +53,19 @@ Real-world stress test of deepfake detectors showing dramatic accuracy drops und
 ## Deep Learning for Metamaterial & Photonic Design
 *Inverse design methods for electromagnetic metamaterials, combining deep learning with physics priors.*
 
-**Deep Inverse Design of Patchy Particles for Mesoscale Assembly of Superlattices**
+[**Deep Inverse Design of Patchy Particles for Mesoscale Assembly of Superlattices**](https://chemrxiv.org/doi/10.26434/chemrxiv.15001514)
 PA Lin, S Ren, et al. 2026.
 Extends inverse design methods from photonics to colloidal self-assembly, designing patchy particle interactions for target superlattice structures.
 
-**Comprehensive Overview of Deep Inverse Models in Metamaterials Design**
+[**Comprehensive Overview of Deep Inverse Models in Metamaterials Design**](https://www.researchgate.net/publication/399794428)
 Y Deng, S Ren, C Nadell, JM Malof, WJ Padilla. *IRMMW-THz*, 2025.
 Survey of the evolving landscape of deep learning approaches for metamaterial inverse design.
 
-**Deep Inverse Design of Metamaterials and Metasurfaces**
+[**Deep Inverse Design of Metamaterials and Metasurfaces**](https://2025.apsursi.org/view_paper.php?PaperNum=1908)
 Y Deng, S Ren, JM Malof, WJ Padilla. *IEEE AP-S/URSI*, 2025.
 Demonstrates end-to-end deep inverse design pipelines for complex metasurface geometries.
 
-**Solving Inverse Problems with Deep Learning**
+[**Solving Inverse Problems with Deep Learning**](https://www.researchgate.net/publication/393354926)
 WJ Padilla, Y Deng, S Ren, J Malof. *ACES Symposium*, 2025.
 Overview of deep learning solutions for inverse electromagnetic problems, covering surrogate models and optimization strategies.
 
@@ -77,7 +77,7 @@ Uses ML to design meta-atoms with precisely controlled multipolar resonance spec
 R Peng, S Ren, J Malof, WJ Padilla. *Nanophotonics* 13(13), 2323-2334, 2024. [21 citations]
 Shows that transfer learning dramatically reduces data requirements for training metamaterial surrogate simulators.
 
-**Forward and inverse design of artificial electromagnetic materials**
+[**Forward and inverse design of artificial electromagnetic materials**](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119853923)
 JM Malof, S Ren, WJ Padilla. *Advances in Electromagnetics Empowered by AI and Deep Learning*, 2023. [2 citations]
 Book chapter covering the full pipeline from forward simulation to inverse design of electromagnetic materials.
 
@@ -85,11 +85,11 @@ Book chapter covering the full pipeline from forward simulation to inverse desig
 W Li, HB Sedeh, WJ Padilla, S Ren, J Malof, NM Litchinitser. *arXiv:2305.18589*, 2023. [5 citations]
 Applies ML to Mie resonance engineering, enabling rapid design of dielectric nanostructures with tailored scattering.
 
-**Informed deep learning in metamaterials**
+[**Informed deep learning in metamaterials**](https://scholars.duke.edu/individual/pub1582494)
 O Khatib, S Ren, J Malof, WJ Padilla. *ACES Symposium*, 2023. [6 citations]
 Integrates physical priors into deep learning models to improve accuracy and generalization for metamaterial inverse design.
 
-**Metamaterial design with physics informed neural networks**
+[**Metamaterial design with physics informed neural networks**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12431/PC124310O/Metamaterial-design-with-physics-informed-neural-networks/10.1117/12.2661089.full)
 O Khatib, S Ren, J Malof, WJ Padilla. *SPIE Photonic and Phononic Properties of Engineered Nanostructures XIII*, 2023.
 Demonstrates physics-informed neural networks for metamaterial design that respect Maxwell's equations.
 
@@ -105,7 +105,7 @@ Introduces Lorentz neural networks that embed physical Lorentz oscillator models
 S Ren, A Mahendra, O Khatib, Y Deng, WJ Padilla, JM Malof. *Nanoscale* 14, 3958-3969, 2022. [61 citations]
 Comprehensive benchmark of deep inverse methods on electromagnetic material design tasks, establishing standardized evaluation protocols.
 
-**Blaschke Product Neural Networks (BPNN): A Physics-Infused Neural Network for Phase Retrieval of Meromorphic Functions**
+[**Blaschke Product Neural Networks (BPNN): A Physics-Infused Neural Network for Phase Retrieval of Meromorphic Functions**](https://openreview.net/pdf?id=JJxiD-kg-oK)
 J Dong, S Ren, Y Deng, O Khatib, J Malof, M Soltani, W Padilla, V Tarokh. *ICLR 2022*.
 Novel physics-infused architecture for phase retrieval leveraging Blaschke product structure of meromorphic functions.
 
@@ -121,7 +121,7 @@ Landmark review of deep learning for metamaterials covering forward modeling, in
 Y Deng, S Ren, K Fan, JM Malof, WJ Padilla. *Optics Express* 29(5), 7526-7534, 2021. [116 citations]
 Applies the neural-adjoint method to design all-dielectric metasurfaces, achieving high-fidelity inverse design without iterative optimization.
 
-**Deep learning and inverse design of artificial electromagnetic materials**
+[**Deep learning and inverse design of artificial electromagnetic materials**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11795/1179504/Deep-learning-and-inverse-design-of-artificial-electromagnetic-materials/10.1117/12.2593081.full)
 WJ Padilla, Y Deng, S Ren, J Malof. *Metamaterials, Metadevices, and Metasystems*, SPIE 11795, 2021.
 Overview of the deep learning inverse design pipeline for artificial electromagnetic materials.
 
@@ -129,11 +129,11 @@ Overview of the deep learning inverse design pipeline for artificial electromagn
 S Ren, W Padilla, J Malof. *NeurIPS 2020*. [86 citations]
 Introduces the neural-adjoint method with boundary loss for inverse modeling, and proposes time-based benchmarking of inverse solvers.
 
-**Machine Learning for Exotic Metasurfaces**
+[**Machine Learning for Exotic Metasurfaces**](https://www.researchgate.net/publication/350000369)
 Y Deng, S Ren, K Fan, J Malof, WJ Padilla. *IRMMW-THz*, 2020. [1 citation]
 Early demonstration of ML-driven design for exotic metasurface geometries.
 
-**Deep inverse design of hydrophobic patches on DNA origami for mesoscale assembly of superlattices**
+[**Deep inverse design of hydrophobic patches on DNA origami for mesoscale assembly of superlattices**](https://neurips.cc/virtual/2023/78583)
 PA Lin, S Ren, JC Piland, LM Collins, S Zauscher, Y Ke, G Arya. *NeurIPS 2023 Workshop: AI for Accelerated Materials Design*.
 Applies deep inverse design to DNA origami, optimizing hydrophobic patch placement for self-assembly.
 
@@ -146,7 +146,7 @@ Applies deep inverse design to DNA origami, optimizing hydrophobic patch placeme
 S Ren, F Luzi, S Lahrichi, K Kassaw, LM Collins, K Bradbury, JM Malof. *WACV 2024*. [123 citations]
 Evaluates Meta's Segment Anything Model on satellite imagery, establishing baselines and revealing domain gap challenges for earth observation.
 
-**Closing the Domain Gap — Blended Synthetic Imagery for Climate Object Detection**
+[**Closing the Domain Gap — Blended Synthetic Imagery for Climate Object Detection**](https://www.climatechange.ai/papers/neurips2022/37)
 C Kornfein, F Willard, C Tang, Y Long, S Jain, J Malof, S Ren, K Bradbury. *NeurIPS 2022 Workshop: Tackling Climate Change with ML*. [4 citations]
 Uses blended synthetic imagery to bridge domain gaps in climate-relevant object detection from overhead imagery.
 
@@ -174,7 +174,7 @@ Maps solar home systems in developing regions from drone imagery using deep lear
 S Ren, S Lahrichi, Y Deng, WJ Padilla, L Collins, J Malof. *arXiv:2302.00098*, 2023. [3 citations]
 Investigates whether deep active learning delivers on its promise in realistic scientific computing settings with distribution shift.
 
-**Mixture Manifold Networks: A Computationally Efficient Baseline for Inverse Modeling**
+[**Mixture Manifold Networks: A Computationally Efficient Baseline for Inverse Modeling**](https://ojs.aaai.org/index.php/AAAI/article/view/26178)
 GP Spell, S Ren, LM Collins, JM Malof. *AAAI 2023*. [2 citations]
 Proposes a computationally efficient inverse modeling approach using mixture of manifold embeddings.
 
@@ -182,7 +182,7 @@ Proposes a computationally efficient inverse modeling approach using mixture of 
 S Ren, Y Deng, WJ Padilla, J Malof. *arXiv:2201.12632*, 2022. [1 citation]
 Identifies failure modes of deep active learning in scientific computing and proposes robustness improvements.
 
-**Drowning Detection based on YOLOv8 improved by GP-GAN Augmentation**
+[**Drowning Detection based on YOLOv8 improved by GP-GAN Augmentation**](https://openreview.net/forum?id=osqgjMNm4_)
 E Wei, S Ren. 2023. [6 citations]
 Improves drowning detection accuracy by augmenting training data with GP-GAN generated synthetic images.
 

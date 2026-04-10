@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ben Ren"
 title_separator          : "-"
 name                     : &name "Ben (Simiao) Ren, Ph.D."
-description              : &description ""
+description              : &description "Co-Founder of ScamAI. Ex-Meta Senior Research Scientist. Duke ML PhD. 900+ citations in deepfake detection, metamaterial design, and remote sensing."
 url                      : https://bensonren.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BensonRen/bensonren.github.io"
@@ -62,13 +62,18 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "selfie.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Ben (Simiao) Ren"
+  links:
+    - "https://www.linkedin.com/in/simiao-ben-ren/"
+    - "https://github.com/BensonRen"
+    - "https://scholar.google.com/citations?user=n4B3bH4AAAAJ&hl=en"
+    - "https://scam.ai"
+    - "https://orcid.org/0000-0002-7113-9208"
 
 
 # Analytics
