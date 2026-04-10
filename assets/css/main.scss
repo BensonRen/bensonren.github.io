@@ -146,3 +146,104 @@ h2 {
   background: rgba($primary-color, 0.15);
   color: $darker-gray;
 }
+
+/* ============================================================
+   Publications page — design review fixes
+   ============================================================ */
+
+/* Each publication entry gets breathing room */
+.page__content p + p {
+  margin-top: 0.4em;
+}
+
+/* Bold paper titles (linked) get prominent styling */
+.page__content a strong,
+.page__content a > strong {
+  color: $primary-color;
+  font-size: 1.02em;
+}
+
+.page__content a:has(strong) {
+  border-bottom: none;
+  &:hover strong {
+    color: $link-color-hover;
+  }
+}
+
+/* Section descriptions (italic paragraphs after h2) */
+.page__content h2 + p > em {
+  color: $gray;
+  font-size: 0.92em;
+}
+
+/* Publication entry spacing — give each paper a card-like feel */
+.page__content hr {
+  border: none;
+  border-top: 1px solid $border-color;
+  margin: 2.5em 0;
+}
+
+/* ============================================================
+   CV page polish
+   ============================================================ */
+
+/* Stronger section headers on CV */
+.page__content h2:first-of-type {
+  margin-top: 0.5em;
+}
+
+/* Skills section — inline badges feel */
+.page__content li strong {
+  color: $darker-gray;
+}
+
+/* ============================================================
+   Site-wide polish
+   ============================================================ */
+
+/* Page title — less redundant, more impactful */
+.page__title {
+  font-size: 1.8em;
+  letter-spacing: -0.03em;
+  margin-bottom: 0.5em;
+}
+
+/* Sidebar social icons — cleaner alignment */
+.author__urls.social-icons li {
+  margin-bottom: 0.15em;
+}
+
+.author__urls.social-icons a {
+  font-size: 0.88em;
+  color: $gray;
+  transition: color 0.15s ease;
+  &:hover {
+    color: $primary-color;
+  }
+}
+
+/* Footer — cleaner, less templated */
+.page__footer footer {
+  max-width: $large;
+  margin: 0 auto;
+  padding: 1.5em 1em;
+  font-size: 0.8em;
+  color: $gray;
+}
+
+/* Greedy nav — site title styling */
+.greedy-nav .site-title {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: $darker-gray;
+}
+
+/* Smooth page load */
+.page {
+  animation: fadeIn 0.3s ease-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
