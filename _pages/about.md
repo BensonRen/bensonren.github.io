@@ -1,17 +1,21 @@
 ---
 permalink: /
-title: "Simiao (Ben) Ren's personal website"
-excerpt: "About me, welcome!"
+title: "Ben (Simiao) Ren, Ph.D."
+excerpt: "Co-Founder & CEO at ScamAI | Ex-Meta | Duke Ph.D."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, welcome to Ben's personal website. I am a third year PhD student in Applied Machine Learning Lab in Duke University, Electrical and Computer Engineering department.
+Hi, welcome! I'm Ben — Co-Founder of [ScamAI (scam.ai)](https://scam.ai), safeguarding trust in the era of generative AI. We detect deepfakes, synthetic media, and AI-generated fraud in real time. We raised $2.5M and are part of the Berkeley SkyDeck accelerator.
 
-My Motto: "Imagine a world with you and without you, what's the difference?"
+Before starting ScamAI, I was a **Senior Research Scientist at Meta**, working on AI Personalization and Recommendation Systems (2023–2025).
 
-Coming from a physics background (Department of Applied Physics in Hong Kong PolyU), I switched to the field of data science and machine learning in my graduate life at Duke, wishing to make a practical difference to the current world with the power of machine learning and big data. That's where I joined the [Applied Machine Learning Lab (AMLL)](https://amll.pratt.duke.edu/) lead by Prof. Leslie Collins (I am co-supervised by Prof. Jordan Malof) and start focusing on using AI to solve important problems facing the current society like material discovery and energy.
+I earned my **Machine Learning Ph.D. from Duke University** (2023), where I worked in the [Applied Machine Learning Lab](https://amll.pratt.duke.edu/) with Prof. Leslie Collins and Prof. Jordan Malof. My research focused on deep learning for inverse design — applying ML to scientific discovery problems in metamaterial design, energy systems, and remote sensing. 900+ citations across 30+ publications at venues including NeurIPS, Advanced Functional Materials, and Nanophotonics.
 
-Check out my CV and publication list on the top buttons.
+My motto: *"Imagine a world with you and without you — what's the difference?"*
+
+Also a Xinjiang Noodle Destroyer.
+
+Check out my [CV](/cv/), [publications](/publications/), or learn more about [ScamAI](https://scam.ai).

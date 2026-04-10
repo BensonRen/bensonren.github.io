@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-    
-  - title: "(co)1st-author publications"
-    url: /first_author_pubs/
-
   - title: "CV"
     url: /cv/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "ScamAI"
+    url: https://scam.ai
