@@ -12,35 +12,35 @@ author_profile: true
 ## AI Trust & Deepfake Detection
 *Research at ScamAI on detecting synthetic media, AI-generated fraud, and evaluating detection systems in real-world conditions.*
 
-**How well are open sourced AI-generated image detection models out-of-the-box? A comprehensive benchmark study**
+[**How well are open sourced AI-generated image detection models out-of-the-box? A comprehensive benchmark study**](https://arxiv.org/abs/2602.07814)
 S Ren, Y Zhou, X Shen, K Zewde, T Duong, G Huang, E Wei, J Xue. *arXiv:2602.07814*, 2026.
 Benchmarks open-source AI-generated image detectors on diverse generative models, revealing significant gaps in out-of-distribution generalization.
 
-**DOCFORGE-BENCH: A Comprehensive Benchmark for Document Forgery Detection and Analysis**
+[**DOCFORGE-BENCH: A Comprehensive Benchmark for Document Forgery Detection and Analysis**](https://arxiv.org/abs/2603.01433)
 Z Zhao, W Xia, P Wei, Y Zhang, Y Zhang, J Mo, T Zhang, Y Dai, Z Chen, ... *arXiv:2603.01433*, 2026.
 Introduces a large-scale benchmark for document forgery detection spanning multiple manipulation types and document categories.
 
-**AIForge-Doc: A Benchmark for Detecting AI-Forged Tampering in Financial and Form Documents**
+[**AIForge-Doc: A Benchmark for Detecting AI-Forged Tampering in Financial and Form Documents**](https://arxiv.org/abs/2602.20569)
 J Wu, Y Zhou, M Xu, Z Liang, S Ren, J Xue, M Yang, S Chen, J Huan. *arXiv:2602.20569*, 2026. [1 citation]
 Targets AI-forged tampering specifically in financial documents with a new benchmark and detection framework.
 
-**GPT4o-Receipt: A Dataset and Human Study for AI-Generated Document Forensics**
+[**GPT4o-Receipt: A Dataset and Human Study for AI-Generated Document Forensics**](https://arxiv.org/abs/2603.11442)
 Y Zhang, S Ren, A Raj, E Wei, D Ng, A Shen, J Xu, Y Zhang, E Marotta. *arXiv:2603.11442*, 2026.
 Studies human vs. AI ability to detect GPT-4o-generated fake receipts, showing humans struggle while specialized detectors can succeed.
 
-**Can a Teenager Fool an AI? Evaluating Low-Cost Cosmetic Attacks on Age Estimation Systems**
+[**Can a Teenager Fool an AI? Evaluating Low-Cost Cosmetic Attacks on Age Estimation Systems**](https://arxiv.org/abs/2602.19539)
 X Shen, T Duong, X An, Z Zhao, Z Hu, H Hu, Z Wang, F Guo, S Ren. *arXiv:2602.19539*, 2026. [1 citation]
 Demonstrates that simple cosmetic-based attacks can bypass commercial age estimation systems with alarming success rates.
 
-**Out of the box age estimation through facial imagery: A Comprehensive Benchmark**
+[**Out of the box age estimation through facial imagery: A Comprehensive Benchmark**](https://arxiv.org/abs/2602.07815)
 S Ren, X Shen, A Raj, A Dai, Y Xu, Z Chen, S Wu, C Gong, Y Zhang. *arXiv:2602.07815*, 2026. [1 citation]
 Comprehensive comparison of vision-language models vs. traditional architectures for facial age estimation.
 
-**Can Multi-modal (reasoning) LLMs detect document manipulation?**
+[**Can Multi-modal (reasoning) LLMs detect document manipulation?**](https://arxiv.org/abs/2508.11021)
 Z Liang, K Zewde, RP Singh, D Patil, Z Chen, J Xue, Y Yao, Y Chen, Q Liu, ... *arXiv:2508.11021*, 2025. [3 citations]
 Evaluates whether multimodal LLMs with reasoning capabilities can detect manipulated documents without specialized training.
 
-**Can Multi-modal (reasoning) LLMs work as deepfake detectors?**
+[**Can Multi-modal (reasoning) LLMs work as deepfake detectors?**](https://arxiv.org/abs/2503.20084)
 S Ren, Y Yao, K Zewde, Z Liang, NY Cheng, X Zhan, Q Liu, Y Chen, H Xu. *arXiv:2503.20084*, 2025. [12 citations]
 First systematic evaluation of multimodal LLMs as zero-shot deepfake detectors, revealing both promise and critical limitations.
 
@@ -69,11 +69,11 @@ Demonstrates end-to-end deep inverse design pipelines for complex metasurface ge
 WJ Padilla, Y Deng, S Ren, J Malof. *ACES Symposium*, 2025.
 Overview of deep learning solutions for inverse electromagnetic problems, covering surrogate models and optimization strategies.
 
-**Machine learning for engineering meta-atoms with tailored multipolar resonances**
+[**Machine learning for engineering meta-atoms with tailored multipolar resonances**](https://onlinelibrary.wiley.com/doi/10.1002/lpor.202300855)
 W Li, H Barati Sedeh, D Tsvetkov, WJ Padilla, S Ren, J Malof, ... *Laser & Photonics Reviews* 18(7), 2300855, 2024. [26 citations]
 Uses ML to design meta-atoms with precisely controlled multipolar resonance spectra for advanced photonic applications.
 
-**Transfer learning for metamaterial design and simulation**
+[**Transfer learning for metamaterial design and simulation**](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2023-0691/html)
 R Peng, S Ren, J Malof, WJ Padilla. *Nanophotonics* 13(13), 2323-2334, 2024. [21 citations]
 Shows that transfer learning dramatically reduces data requirements for training metamaterial surrogate simulators.
 
@@ -81,7 +81,7 @@ Shows that transfer learning dramatically reduces data requirements for training
 JM Malof, S Ren, WJ Padilla. *Advances in Electromagnetics Empowered by AI and Deep Learning*, 2023. [2 citations]
 Book chapter covering the full pipeline from forward simulation to inverse design of electromagnetic materials.
 
-**Machine learning for mie-tronics**
+[**Machine learning for mie-tronics**](https://arxiv.org/abs/2305.18589)
 W Li, HB Sedeh, WJ Padilla, S Ren, J Malof, NM Litchinitser. *arXiv:2305.18589*, 2023. [5 citations]
 Applies ML to Mie resonance engineering, enabling rapid design of dielectric nanostructures with tailored scattering.
 
@@ -93,15 +93,15 @@ Integrates physical priors into deep learning models to improve accuracy and gen
 O Khatib, S Ren, J Malof, WJ Padilla. *SPIE Photonic and Phononic Properties of Engineered Nanostructures XIII*, 2023.
 Demonstrates physics-informed neural networks for metamaterial design that respect Maxwell's equations.
 
-**Deep inverse photonic design: A tutorial**
+[**Deep inverse photonic design: A tutorial**](https://www.sciencedirect.com/science/article/abs/pii/S1569441022000803)
 Y Deng, S Ren, J Malof, WJ Padilla. *Photonics and Nanostructures* 52, 101070, 2022. [23 citations]
 Comprehensive tutorial walking through deep learning methods for inverse photonic device design, with code and benchmarks.
 
-**Learning the physics of all-dielectric metamaterials with deep Lorentz neural networks**
+[**Learning the physics of all-dielectric metamaterials with deep Lorentz neural networks**](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202200097)
 O Khatib, S Ren, J Malof, WJ Padilla. *Advanced Optical Materials* 10(13), 2200097, 2022. [63 citations]
 Introduces Lorentz neural networks that embed physical Lorentz oscillator models into the network architecture for physically consistent metamaterial predictions.
 
-**Inverse deep learning methods and benchmarks for artificial electromagnetic material design**
+[**Inverse deep learning methods and benchmarks for artificial electromagnetic material design**](https://pubs.rsc.org/en/content/articlelanding/2022/nr/d1nr08460k)
 S Ren, A Mahendra, O Khatib, Y Deng, WJ Padilla, JM Malof. *Nanoscale* 14, 3958-3969, 2022. [61 citations]
 Comprehensive benchmark of deep inverse methods on electromagnetic material design tasks, establishing standardized evaluation protocols.
 
@@ -109,15 +109,15 @@ Comprehensive benchmark of deep inverse methods on electromagnetic material desi
 J Dong, S Ren, Y Deng, O Khatib, J Malof, M Soltani, W Padilla, V Tarokh. *ICLR 2022*.
 Novel physics-infused architecture for phase retrieval leveraging Blaschke product structure of meromorphic functions.
 
-**Benchmarking Data-driven Surrogate Simulators for Artificial Electromagnetic Materials**
+[**Benchmarking Data-driven Surrogate Simulators for Artificial Electromagnetic Materials**](https://proceedings.neurips.cc/paper/2021)
 Y Deng\*, J Dong\*, S Ren\*, O Khatib, M Soltani, V Tarokh, W Padilla, ... *NeurIPS 2021*. [19 citations]
 Establishes benchmarks for data-driven forward simulators of electromagnetic materials, comparing architectures and training strategies.
 
-**Deep Learning the Electromagnetic Properties of Metamaterials — A Comprehensive Review**
+[**Deep Learning the Electromagnetic Properties of Metamaterials — A Comprehensive Review**](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202101748)
 O Khatib, S Ren, J Malof, WJ Padilla. *Advanced Functional Materials*, 2101748, 2021. [230 citations]
 Landmark review of deep learning for metamaterials covering forward modeling, inverse design, and generative approaches across the field.
 
-**Neural-adjoint method for the inverse design of all-dielectric metasurfaces**
+[**Neural-adjoint method for the inverse design of all-dielectric metasurfaces**](https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-5-7526)
 Y Deng, S Ren, K Fan, JM Malof, WJ Padilla. *Optics Express* 29(5), 7526-7534, 2021. [116 citations]
 Applies the neural-adjoint method to design all-dielectric metasurfaces, achieving high-fidelity inverse design without iterative optimization.
 
@@ -125,7 +125,7 @@ Applies the neural-adjoint method to design all-dielectric metasurfaces, achievi
 WJ Padilla, Y Deng, S Ren, J Malof. *Metamaterials, Metadevices, and Metasystems*, SPIE 11795, 2021.
 Overview of the deep learning inverse design pipeline for artificial electromagnetic materials.
 
-**Benchmarking deep inverse models over time, and the neural-adjoint method**
+[**Benchmarking deep inverse models over time, and the neural-adjoint method**](https://proceedings.neurips.cc/paper/2020/hash/007ff380ee5ac49ffc34442f5c2a2b86-Abstract.html)
 S Ren, W Padilla, J Malof. *NeurIPS 2020*. [86 citations]
 Introduces the neural-adjoint method with boundary loss for inverse modeling, and proposes time-based benchmarking of inverse solvers.
 
@@ -142,7 +142,7 @@ Applies deep inverse design to DNA origami, optimizing hydrophobic patch placeme
 ## Remote Sensing & Energy
 *Applying computer vision and deep learning to satellite/drone imagery for energy infrastructure mapping.*
 
-**Segment anything, from space?**
+[**Segment anything, from space?**](https://openaccess.thecvf.com/content/WACV2024/html/Ren_Segment_Anything_From_Space_WACV_2024_paper.html)
 S Ren, F Luzi, S Lahrichi, K Kassaw, LM Collins, K Bradbury, JM Malof. *WACV 2024*. [123 citations]
 Evaluates Meta's Segment Anything Model on satellite imagery, establishing baselines and revealing domain gap challenges for earth observation.
 
@@ -150,19 +150,19 @@ Evaluates Meta's Segment Anything Model on satellite imagery, establishing basel
 C Kornfein, F Willard, C Tang, Y Long, S Jain, J Malof, S Ren, K Bradbury. *NeurIPS 2022 Workshop: Tackling Climate Change with ML*. [4 citations]
 Uses blended synthetic imagery to bridge domain gaps in climate-relevant object detection from overhead imagery.
 
-**Automated extraction of energy systems information from remotely sensed data: A review and analysis**
+[**Automated extraction of energy systems information from remotely sensed data: A review and analysis**](https://www.sciencedirect.com/science/article/pii/S0306261922011588)
 S Ren, W Hu, K Bradbury, D Harrison-Atlas, LM Valeri, B Murray, ... *Applied Energy* 326, 119876, 2022. [60 citations]
 Comprehensive review of ML methods for extracting energy infrastructure information from satellite and aerial imagery.
 
-**Self-supervised encoders are better transfer learners in remote sensing applications**
+[**Self-supervised encoders are better transfer learners in remote sensing applications**](https://www.mdpi.com/2072-4292/14/21/5500)
 ZD Calhoun, S Lahrichi, S Ren, JM Malof, K Bradbury. *Remote Sensing* 14(21), 5500, 2022. [21 citations]
 Demonstrates that self-supervised pretraining outperforms ImageNet-supervised pretraining for remote sensing downstream tasks.
 
-**Meta-simulation for the Automated Design of Synthetic Overhead Imagery**
+[**Meta-simulation for the Automated Design of Synthetic Overhead Imagery**](https://arxiv.org/abs/2209.08685)
 H Yu, S Ren, LM Collins, JM Malof. *arXiv:2209.08685*, 2022. [1 citation]
 Automates the design of synthetic overhead image generation pipelines using meta-learning.
 
-**Utilizing geospatial data for assessing energy security: Mapping small solar home systems using unmanned aerial vehicles and deep learning**
+[**Utilizing geospatial data for assessing energy security: Mapping small solar home systems using unmanned aerial vehicles and deep learning**](https://www.mdpi.com/2220-9964/11/4/222)
 S Ren, J Malof, TR Fetter, R Beach, J Rineer, K Bradbury. *ISPRS Int. J. Geo-Inf.* 11(4), 222, 2022. [28 citations]
 Maps solar home systems in developing regions from drone imagery using deep learning to assess energy access.
 
@@ -170,7 +170,7 @@ Maps solar home systems in developing regions from drone imagery using deep lear
 
 ## Machine Learning Methods
 
-**Does Deep Active Learning Work in the Wild?**
+[**Does Deep Active Learning Work in the Wild?**](https://arxiv.org/abs/2302.00098)
 S Ren, S Lahrichi, Y Deng, WJ Padilla, L Collins, J Malof. *arXiv:2302.00098*, 2023. [3 citations]
 Investigates whether deep active learning delivers on its promise in realistic scientific computing settings with distribution shift.
 
@@ -178,7 +178,7 @@ Investigates whether deep active learning delivers on its promise in realistic s
 GP Spell, S Ren, LM Collins, JM Malof. *AAAI 2023*. [2 citations]
 Proposes a computationally efficient inverse modeling approach using mixture of manifold embeddings.
 
-**Towards Robust Deep Active Learning for Scientific Computing**
+[**Towards Robust Deep Active Learning for Scientific Computing**](https://arxiv.org/abs/2201.12632)
 S Ren, Y Deng, WJ Padilla, J Malof. *arXiv:2201.12632*, 2022. [1 citation]
 Identifies failure modes of deep active learning in scientific computing and proposes robustness improvements.
 
@@ -190,10 +190,10 @@ Improves drowning detection accuracy by augmenting training data with GP-GAN gen
 
 ## Physics
 
-**Heterogeneity and Memory Effect in the Sluggish Dynamics of Vacancy Defects in Colloidal Disordered Crystals and Their Implications to High-Entropy Alloys**
+[**Heterogeneity and Memory Effect in the Sluggish Dynamics of Vacancy Defects in Colloidal Disordered Crystals and Their Implications to High-Entropy Alloys**](https://onlinelibrary.wiley.com/doi/10.1002/advs.202205522)
 CH Chan, Q Huo, A Kumar, Y Shi, H Hong, Y Du, S Ren, KP Wong, ... *Advanced Science* 9(36), 2205522, 2022. [7 citations]
 Reveals heterogeneous dynamics and memory effects in colloidal crystals, with implications for understanding high-entropy alloys.
 
-**Direct Evidence of Void-Induced Structural Relaxations in Colloidal Glass Formers**
+[**Direct Evidence of Void-Induced Structural Relaxations in Colloidal Glass Formers**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.258001)
 CT Yip, M Isobe, CH Chan, S Ren, KP Wong, ... *Physical Review Letters* 125(25), 258001, 2020. [46 citations]
 First direct experimental observation of void-induced structural relaxations in colloidal glass formers.
