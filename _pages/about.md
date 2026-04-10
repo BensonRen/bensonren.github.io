@@ -18,4 +18,15 @@ My motto: *"Imagine a world with you and without you — what's the difference?"
 
 Also a Xinjiang Noodle Destroyer.
 
+<div style="margin-top: 2em; padding-top: 1.5em; border-top: 2px solid #e2e8f0;">
+<p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.1em; color: #64748b; margin-bottom: 1em; font-weight: 600;">Affiliations</p>
+<div style="display: flex; align-items: center; gap: 2em; flex-wrap: wrap; opacity: 0.8;">
+<a href="https://scam.ai" target="_blank"><img src="/images/logos/scamai.svg" alt="ScamAI" style="height: 32px; filter: grayscale(100%); transition: filter 0.2s;" onmouseover="this.style.filter='grayscale(0%)'" onmouseout="this.style.filter='grayscale(100%)'"></a>
+<a href="https://about.meta.com" target="_blank"><img src="/images/logos/meta.svg" alt="Meta" style="height: 22px; filter: grayscale(100%); transition: filter 0.2s;" onmouseover="this.style.filter='grayscale(0%)'" onmouseout="this.style.filter='grayscale(100%)'"></a>
+<a href="https://skydeck.berkeley.edu" target="_blank"><img src="/images/logos/skydeck.png" alt="Berkeley SkyDeck" style="height: 30px; filter: grayscale(100%); transition: filter 0.2s;" onmouseover="this.style.filter='grayscale(0%)'" onmouseout="this.style.filter='grayscale(100%)'"></a>
+<a href="https://duke.edu" target="_blank"><img src="/images/logos/duke.svg" alt="Duke University" style="height: 28px; filter: grayscale(100%); transition: filter 0.2s;" onmouseover="this.style.filter='grayscale(0%)'" onmouseout="this.style.filter='grayscale(100%)'"></a>
+<a href="https://berkeley.edu" target="_blank"><img src="/images/logos/ucberkeley.svg" alt="UC Berkeley" style="height: 40px; filter: grayscale(100%); transition: filter 0.2s;" onmouseover="this.style.filter='grayscale(0%)'" onmouseout="this.style.filter='grayscale(100%)'"></a>
+</div>
+</div>
+
 Check out my [CV](/cv/), [publications](/publications/), or learn more about [ScamAI](https://scam.ai).
