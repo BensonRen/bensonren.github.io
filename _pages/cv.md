@@ -14,13 +14,17 @@ Industry Experience
 
 * 2025 - Present: **Co-Founder & CEO**
   * [ScamAI (scam.ai)](https://scam.ai), San Francisco, CA
-  * Building an AI trust platform that detects deepfakes, synthetic media, and AI-generated fraud in real time
-  * Raised $2.5M; Berkeley SkyDeck accelerator
+  * Founded to combat the societal harms of AI misuse — preserving the trust pillar of human society by detecting deepfakes, fraudulent GenAI content, and AI-manipulated media
+  * Built an all-in-one AI trust platform: deepfake detection, voice clone detection, document forgery analysis, age estimation, and identity verification
+  * Raised $2.5M; Berkeley SkyDeck accelerator (UC Berkeley)
   * SOC 2 Type II compliant; serving financial services, dating/social, media, government, and insurance sectors
+  * Published 8+ papers on deepfake detection benchmarking, LLM-based detection, and adversarial robustness
 
 * 2023 - 2025: **Senior Research Scientist**
   * Meta, Menlo Park, CA
-  * Meta AI department (later Meta Superintelligence Lab) — AI Personalization / Recommendation Systems
+  * Meta AI department (later Meta Superintelligence Lab)
+  * **AI Personalization**: Pioneered work on personalized interest modeling and memory to make AI interactions more human and contextually aware
+  * **Large-Scale Recommendation Systems**: Feed ranking and Messenger recommendation systems at Meta's scale
 
 Education
 ======
@@ -36,9 +40,7 @@ Education
 Selected Publications
 ======
 
-*900+ citations across 30+ publications. Full list on [Google Scholar](https://scholar.google.com/citations?user=n4B3bH4AAAAJ&hl=en).*
-
-*Highlights only — see [full list](/publications/) or [Google Scholar](https://scholar.google.com/citations?user=n4B3bH4AAAAJ&hl=en).*
+*Nearly **1,000 citations** across **30+ publications** at top venues including **NeurIPS, ICLR, ICML, AAAI, WACV**. Full list on [Google Scholar](https://scholar.google.com/citations?user=n4B3bH4AAAAJ&hl=en) or [publications page](/publications/).*
 
 * **Ren, S.**, et al. (2025). Can Multi-modal (reasoning) LLMs work as deepfake detectors? [12 citations]
 * **Ren, S.**, et al. (2025). Do deepfake detectors work in reality? *Proc. 4th Workshop on Security Implications of Deepfakes.* [7 citations]

@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-*900+ citations across 30+ publications. See also my [Google Scholar](https://scholar.google.com/citations?user=n4B3bH4AAAAJ&hl=en) profile.*
+*Nearly **1,000 citations** across **30+ publications** at top venues including **NeurIPS, ICLR, ICML, AAAI, WACV**, Advanced Functional Materials, and more. See also my [Google Scholar](https://scholar.google.com/citations?user=n4B3bH4AAAAJ&hl=en) profile.*
 
 ---
 
