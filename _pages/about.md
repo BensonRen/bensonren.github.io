@@ -29,8 +29,6 @@ Before starting ScamAI, I was a **Senior Research Scientist at Meta** (2023–20
 
 I earned my **Machine Learning Ph.D. from Duke University** in just 3 years (2020–2023) — I was offered and couldn't resist the Meta opportunity. I worked in the [Applied Machine Learning Lab](https://amll.pratt.duke.edu/) with Prof. Leslie Collins and Prof. Jordan Malof on deep learning for inverse design — applying ML to metamaterial design, energy systems, and remote sensing. Nearly **1,000 citations** across **30+ publications** at top venues including **NeurIPS, ICLR, ICML, AAAI, WACV**, Advanced Functional Materials, and Nanophotonics.
 
-Also a Xinjiang Noodle Destroyer.
-
 <div style="margin-top: 2em; padding-top: 1.5em; border-top: 2px solid #e2e8f0;">
 <p style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.1em; color: #64748b; margin-bottom: 1.2em; font-weight: 600;">Where I've Built</p>
 <div style="display: flex; align-items: center; gap: 2.5em; flex-wrap: wrap;">
@@ -39,6 +37,7 @@ Also a Xinjiang Noodle Destroyer.
 <a href="https://skydeck.berkeley.edu" target="_blank"><img src="/images/logos/skydeck.png" alt="Berkeley SkyDeck" style="height: 40px; opacity: 0.7; transition: opacity 0.2s; background: #1e293b; padding: 6px 12px; border-radius: 6px;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.7'"></a>
 <a href="https://duke.edu" target="_blank"><img src="/images/logos/duke.svg" alt="Duke University" style="height: 50px; opacity: 0.7; transition: opacity 0.2s;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.7'"></a>
 <a href="https://berkeley.edu" target="_blank"><img src="/images/logos/ucberkeley.svg" alt="UC Berkeley" style="height: 28px; opacity: 0.7; transition: opacity 0.2s;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.7'"></a>
+<a href="https://www.polyu.edu.hk" target="_blank"><img src="/images/logos/polyu.png" alt="HK PolyU" style="height: 36px; opacity: 0.7; transition: opacity 0.2s;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.7'"></a>
 </div>
 </div>
 
