@@ -12,7 +12,7 @@ redirect_from:
 Industry Experience
 ======
 
-* 2024 - Present: **Co-Founder & CEO**
+* 2025 - Present: **Co-Founder & CEO**
   * [ScamAI (scam.ai)](https://scam.ai), San Francisco, CA
   * Building an AI trust platform that detects deepfakes, synthetic media, and AI-generated fraud in real time
   * Raised $2.5M; Berkeley SkyDeck accelerator
@@ -30,10 +30,8 @@ Education
   * Focus: deep learning for inverse design, metamaterial design, energy applications, and remote sensing
 * **M.S. in Electrical and Computer Engineering**
   * Duke University, NC, USA, 2020
-  * GPA: 3.97 / 4.0
 * **B.S. in Applied Physics (First Class Honors)**
   * The Hong Kong Polytechnic University, HKSAR, China, 2018
-  * GPA: 4.0 / 4.0
 
 Selected Publications
 ======
@@ -77,7 +75,7 @@ Scholarships & Awards
 
 Service & Leadership
 ======
-* Co-Founder & CEO, ScamAI — combating AI misuse at scale, 2024 - present
+* Co-Founder & CEO, ScamAI — combating AI misuse at scale, 2025 - present
 * Technology 4 Development, Cambodia, Summer 2017
   * Solar panel and LED installations for rural primary schools with NGO “Young People Do”
 * President, Chinese Mainland Students’ Association, HK PolyU, 2015-2016

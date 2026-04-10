@@ -12,7 +12,7 @@ Hi, welcome! I'm Ben — Co-Founder of [ScamAI (scam.ai)](https://scam.ai), safe
 
 Before starting ScamAI, I was a **Senior Research Scientist at Meta**, working on AI Personalization and Recommendation Systems (2023–2025).
 
-I earned my **Machine Learning Ph.D. from Duke University** (2023), where I worked in the [Applied Machine Learning Lab](https://amll.pratt.duke.edu/) with Prof. Leslie Collins and Prof. Jordan Malof. My research focused on deep learning for inverse design — applying ML to scientific discovery problems in metamaterial design, energy systems, and remote sensing. 900+ citations across 30+ publications at venues including NeurIPS, Advanced Functional Materials, and Nanophotonics.
+I earned my **Machine Learning Ph.D. from Duke University** (2023), where I worked in the [Applied Machine Learning Lab](https://amll.pratt.duke.edu/) with Prof. Leslie Collins and Prof. Jordan Malof. My research focused on deep learning for inverse design — applying ML to scientific discovery problems in metamaterial design, energy systems, and remote sensing. 900+ citations across 30+ publications at top venues including NeurIPS, ICLR, ICML, AAAI, WACV, Advanced Functional Materials, and Nanophotonics.
 
 My motto: *"Imagine a world with you and without you — what's the difference?"*
 
