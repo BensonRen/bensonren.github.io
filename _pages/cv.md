@@ -13,7 +13,7 @@ Industry Experience
 ======
 
 * 2024 - Present: **Co-Founder & CEO**
-  * [ScamAI (scam.ai)](https://scam.ai), Newark, CA
+  * [ScamAI (scam.ai)](https://scam.ai), San Francisco, CA
   * Building an AI trust platform that detects deepfakes, synthetic media, and AI-generated fraud in real time
   * Raised $2.5M; Berkeley SkyDeck accelerator
   * SOC 2 Type II compliant; serving financial services, dating/social, media, government, and insurance sectors
